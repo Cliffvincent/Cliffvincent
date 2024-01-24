@@ -5,6 +5,19 @@
 🔹𝗖𝗹𝗶𝗳𝗳𝗩𝗶𝗻𝗰𝗲𝗻𝘁 𝗩. 𝗧𝗼𝗿𝗿𝗲𝘃𝗶𝗹𝗹𝗮𝘀
 </h5>
 
+# 📰 Talking about Information
+<img align="right" width=200px alt="PNG" src="https://i.pinimg.com/originals/a0/10/21/a010215b786ada4176ae237b5b154310.gif" />
+
+-   ⚜️ My name is Cliff Vincent.
+-   ❤️‍🔥 21/Jan/2006
+-   💬 My nickname is Yazky
+-   💬 I'm Single.
+-   💓 Relationship: Single 
+-   🍁 Profile: [Facebook](https://www.facebook.com/swordigo.swordslush)
+-   🍀 Describe About Myself: I'm Full Time Busy Person. I've Continue My Studies. Besides work I write scripts in JavaScript To improve performance of the bot. 
+<hr>
+
+
 > 🔹Modified by Yazkydev also known as    Cliff or Swordigo dev<br>
 > 🔹File from [Disme-Project](https://github.com/D-Jukie/Disme-Bot.git) by Phạm Văn Diện also known as 𝗗-𝗝𝘂𝗸𝗶𝗲<br>
 > 🔹Appstate is encrypted when the REPL starts running.<br>
