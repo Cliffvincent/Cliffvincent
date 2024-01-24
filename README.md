@@ -5,7 +5,7 @@
 🔹𝗖𝗹𝗶𝗳𝗳𝗩𝗶𝗻𝗰𝗲𝗻𝘁 𝗩. 𝗧𝗼𝗿𝗿𝗲𝘃𝗶𝗹𝗹𝗮𝘀
 </h5>
 
-# 📰 Talking about Information
+# Talking about Information
 <img align="right" width=200px alt="PNG" src="https://i.pinimg.com/originals/a0/10/21/a010215b786ada4176ae237b5b154310.gif" />
 
 -   ⚜️ My name is Cliff Vincent.
