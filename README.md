@@ -1,6 +1,4 @@
 
-![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://i.imgur.com/25y6rNc.jpeg)
- 
 <p align="center">
   <a href="https://github.com/khrlmstfa/readme-typing-svg">></a>
 </p>
