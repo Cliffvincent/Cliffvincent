@@ -1,5 +1,4 @@
-<h1 align="center">Hi , I'm Kaizenji! <img src="https://i.imgur.com/ZjFozzP.jpeg" width="35"></h1>
- 
+
 ![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://i.imgur.com/25y6rNc.jpeg)
  
 <p align="center">
